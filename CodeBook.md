@@ -36,12 +36,12 @@ Human Activity Recognition Using Smartphones Data Set
 
 "Activity"                                
 	Factor. Identifies activity performed for sample. 6 possible values.
-	1 WALKING
-	2 WALKING_UPSTAIRS
-	3 WALKING_DOWNSTAIRS
-	4 SITTING
-	5 STANDING
-	6 LAYING
+	1. WALKING
+	2. WALKING_UPSTAIRS
+	3. WALKING_DOWNSTAIRS
+	4. SITTING
+	5. STANDING
+	6. LAYING
   
 "tBodyAcc-mean()-X"              
 	Double. Represents the mean value of "tBodyAcc-mean()-X" measurement reading for the subject+activity.
